@@ -7,8 +7,8 @@ export const App = () => {
   return (
     <WrapperContent>
       <ContactForm />
-      <Contacts />
       <Filter />
+      <Contacts />
     </WrapperContent>
   );
 };
